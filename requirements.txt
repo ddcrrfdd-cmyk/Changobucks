@@ -8,5 +8,7 @@ python-dateutil==2.8.2
 itsdangerous==2.1.2
 blinker==1.7.0
 click==8.1.7
+ccxt==4.2.100
 stripe==7.0.0
 paypalcheckoutsdk==1.0.0
+openai==1.3.0
